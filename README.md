@@ -79,7 +79,7 @@ Build a simple web app for predictions.
 
 ---
 
-Created by Tam Tran
+Created by Tam Tran                
 Inspired by various brain tumor detection research and open datasets.
 
 ---
