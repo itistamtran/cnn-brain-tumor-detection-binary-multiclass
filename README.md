@@ -57,14 +57,14 @@ This project uses Convolutional Neural Networks (CNN) to detect brain tumors fro
 
 ---
 
-📌 Notes
+📌 **Notes**           
 EarlyStopping, ModelCheckpoint, and TensorBoard were used to monitor training.
 
 Models are saved as .keras files for easy reloading and inference.
 
 ---
 
-💡 Future Work
+💡 **Future Work**                        
 Try transfer learning with pre-trained CNNs (ResNet, VGG).
 
 Add Grad-CAM to visualize heatmaps on tumor areas.
@@ -79,8 +79,7 @@ Build a simple web app for predictions.
 
 ---
 
-Created by Tam Tran                
-Inspired by various brain tumor detection research and open datasets.
+Created by **Tam Tran**                    
 
 ---
 
