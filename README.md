@@ -27,12 +27,12 @@ This project uses Convolutional Neural Networks (CNN) to detect brain tumors fro
 ### Binary Classification:
 - **Goal**: Detect whether a tumor is present.
 - **Model Accuracy**: ~98%
-- **Loss**: ~0.10
+- **Loss**: ~0.07
 
 ### Multi-Class Classification:
 - **Goal**: Identify tumor type (glioma, meningioma, pituitary) or no tumor.
-- **Model Accuracy**: ~92%
-- **Loss**: ~0.30
+- **Model Accuracy**: ~90%
+- **Loss**: ~0.48
 
 ---
 
@@ -40,9 +40,9 @@ This project uses Convolutional Neural Networks (CNN) to detect brain tumors fro
 
 | Metric     | Binary Model | Multi-Class Model |
 |------------|--------------|-------------------|
-| Accuracy   | 0.98         | 0.92              |
-| F1 Score   | 0.97         | 0.91              |
-| Loss       | 0.10         | 0.30              |
+| Accuracy   | 0.9773       | 0.9038            |
+| F1 Score   | 0.9831       | 0.8873            |
+| Loss       | 0.0735       | 0.4822            |
 
 ---
 
