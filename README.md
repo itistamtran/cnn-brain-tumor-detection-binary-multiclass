@@ -46,15 +46,20 @@ This project uses Convolutional Neural Networks (CNN) to detect brain tumors fro
 
 ---
 
-## 🧪 Tools & Libraries
-
+## 🧰 Tools & Libraries
 - Python 3.x
-- TensorFlow / Keras
-- NumPy, Pandas
-- Matplotlib, Seaborn
-- scikit-learn
-- TensorBoard
+- TensorFlow / Keras – deep learning framework
+- NumPy, Pandas – numerical & data manipulation
+- Matplotlib, Seaborn – data visualization
+- OpenCV, imutils – image preprocessing
+- Pillow (PIL) – image loading
+- scikit-learn – metrics, splitting, evaluation
+- TensorBoard – model performance visualization
+- shutil, zipfile, time, random, os – built-in utilities
 
+## 💻 Development Environment
+- Jupyter Notebook
+  
 ---
 
 📌 **Notes**           
